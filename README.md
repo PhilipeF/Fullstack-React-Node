@@ -1,4 +1,4 @@
-# Prova Fullstack React/Node Soluções Digitais
+# Teste tecnico Fullstack React/Node
 
 O desenvolvimento da prova consiste em desenvolver um sistema, conforme especificado nos protótipos abaixo.
 
